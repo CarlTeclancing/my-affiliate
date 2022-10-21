@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&family=Nanum+Pen+Script&family=Poppins:wght@200;300;400&family=Roboto:ital,wght@0,400;1,300&family=Shizuru&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Poppins', sans-serif;
+}
+table{
+    border-collapse: collapse;
+    padding: 20px;
+    margin: 20px;
+}
+th, td{
+    border: 1px solid black;
+    margin: 10px;
+    padding: 20px;
+}
+#Add{
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 20px;
+}
+a{
+    text-decoration: none;
+    color: blue;
+    border: 1px solid;
+    padding: 10px;
+    margin: 10px;
+}
+a:hover{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    border: 1px solid;
+    padding: 10px;
+    margin: 10px;
+}
+h1{
+    text-align: center;
+}
